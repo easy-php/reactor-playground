@@ -1,0 +1,8 @@
+{
+    "name": "easy-php/reactor-playground",
+    "description": "Playground for reactphp testing",
+    "require": {
+        "react/http": "0.4.*",
+        "symfony/console": "~2.5"
+    }
+}
